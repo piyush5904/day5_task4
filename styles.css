@@ -1,0 +1,18 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 20px;
+}
+
+.main-list {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+.sub-list {
+    list-style-type: circle;
+    margin-left: 20px;
+    font-size: 18px;
+}
